@@ -1,8 +1,8 @@
 #
-#Fri Mar 21 19:36:06 CET 2025
+#Tue Apr 01 20:15:07 CEST 2025
 teamName=Group14
 connectionString=https\://catvis.win.tue.nl/2img15/submit/
 autoExportSolutions=true
 problemPath=C\:\\M_DSAI_Notes\\Q3\\Algorithms for Geovisualisation\\2024-ongoing
 exportPath=C\:\\M_DSAI_Notes\\Q3\\Algorithms for Geovisualisation\\solutions
-sharedSecret=Xiorisgoated6\!9
+sharedSecret=Xiorisgoated69

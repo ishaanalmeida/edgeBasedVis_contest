@@ -25,6 +25,17 @@ public class AlgorithmList {
             new testAlgo9(),
             new testAlgo12(),
             new testAlgo14(),
+            new testAlgo16(),
+            new testAlgo18(),
+            new testAlgo19(),
+            new testAlgo20(),
+            new testAlgo21(),
+            new testAlgo22(),
+            //new testAlgo23(),
+            //new testAlgo24(),
+            new testAlgo25(),
+            new testAlgo26(),
+            new testAlgo27(),
         };
     }
 }
