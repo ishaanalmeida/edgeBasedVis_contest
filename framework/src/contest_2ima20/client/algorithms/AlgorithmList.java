@@ -16,11 +16,15 @@ public class AlgorithmList {
     public static SchematicTreesAlgorithm[] getAlgorithms() {
         return new SchematicTreesAlgorithm[]{
             new ArbitraryAlgorithm(),
-            new testAlgo1(),
-            new testAlgo2(),
-            new testAlgo3(),
+            // new testAlgo1(),
+            // new testAlgo2(),
+            // new testAlgo3(),
             new testAlgo4(),
-            new testAlgo5()
+            // new testAlgo7(),
+            // new testAlgo8(),
+            new testAlgo9(),
+            new testAlgo12(),
+            new testAlgo14(),
         };
     }
 }
