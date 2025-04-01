@@ -36,6 +36,8 @@ public class AlgorithmList {
             new testAlgo25(),
             new testAlgo26(),
             new testAlgo27(),
+            new testAlgo28(),
+            new PlanarityGuidedAlgorithm(),
         };
     }
 }
